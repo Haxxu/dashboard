@@ -1,8 +1,10 @@
-import React from 'react'
+import React from 'react';
+
+import { Pie as PieChart } from '../../components';
 
 const Pie = () => {
   return (
-    <div>Pie</div>
+    <PieChart />
   )
 }
 
